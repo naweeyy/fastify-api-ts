@@ -5,7 +5,7 @@ This project is actively maintained at:
 
 | Version | Supported |
 |---------|-----------|
-| 1.0.0   | ✅ Yes    |
+| 1.x     | ✅ Yes    |
 
 ## Reporting a Vulnerability
 If you discover a security vulnerability in this project, please follow these steps:
